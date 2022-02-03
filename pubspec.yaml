@@ -62,6 +62,7 @@ flutter:
     - asset/images/images (2)@1X.png
     - asset/images/images@1X.png
     - asset/images/verified-3600.png
+    - lib/json_file/
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in

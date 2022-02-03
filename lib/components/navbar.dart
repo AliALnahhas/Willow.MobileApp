@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:willow/utils/navigation.dart';
-import 'package:willow/screen2.dart';
+import 'package:willow/screens/screen2.dart';
 
 class BottomNavBar extends StatefulWidget {
   BottomNavBar({Key? key}) : super(key: key);

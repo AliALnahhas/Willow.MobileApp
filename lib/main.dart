@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:willow/screen1.dart';
+import 'package:willow/screens/screen1.dart';
 
 void main() {
   runApp(MyApp());
